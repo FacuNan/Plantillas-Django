@@ -1,0 +1,45 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+    text-decoration: none;
+    ;
+}
+
+nav {
+    background-color: lightgrey;
+    display: flex;
+    justify-content: center;
+    height: 70px;
+    align-items: center;
+ 
+
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    width: 300px;
+
+}
+
+h1 {
+    color: red;
+}
+
+main {
+    height: 715px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+footer {
+    background-color: lightgray;
+    background-color: lightgray;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
